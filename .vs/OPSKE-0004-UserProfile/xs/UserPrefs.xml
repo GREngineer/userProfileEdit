@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{6D0C7AC5-ABBB-4940-9020-0807AB671E31}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.xxxxx-0004-UserProfile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OPSKE-0004-UserProfile/UserAFMInvalid.cs">
+    <Files>
+      <File FileName="OPSKE-0004-UserProfile/DriverInitializer.cs" Line="8" Column="45" />
+      <File FileName="OPSKE-0004-UserProfile/UserLogger.cs" Line="37" Column="100" />
+      <File FileName="OPSKE-0004-UserProfile/UserAFMInvalid.cs" Line="9" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/UserAFMValid.cs" Line="11" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/UserEmailInvalid.cs" Line="9" Column="13" />
+      <File FileName="OPSKE-0004-UserProfile/UserPhoneInvalid.cs" Line="9" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/UserPhoneValid.cs" Line="9" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/UserPostalcodeInvalid.cs" Line="9" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/UserPostalcodeValid.cs" Line="9" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/UserRegion.cs" Line="9" Column="12" />
+      <File FileName="OPSKE-0004-UserProfile/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OPSKE-0004-UserProfile" expanded="True">
+            <Node name="xxxxx-0004-UserProfile" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OPSKE-0004-UserProfile" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
